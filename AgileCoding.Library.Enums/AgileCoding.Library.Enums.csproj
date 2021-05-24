@@ -48,7 +48,6 @@
     <Compile Include="Tracing\TraceTypeEnum.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="AgileCoding.Library.Enums.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
