@@ -44,7 +44,7 @@
     <Compile Include="SAS\SystemEnvironmentEnum.cs" />
     <Compile Include="Logging\LogTypeEnum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Integration\RequestTypeEnum.cs" />
+    <Compile Include="Integration\ServiceRequestTypeEnum.cs" />
     <Compile Include="Tracing\TraceTypeEnum.cs" />
   </ItemGroup>
   <ItemGroup>
