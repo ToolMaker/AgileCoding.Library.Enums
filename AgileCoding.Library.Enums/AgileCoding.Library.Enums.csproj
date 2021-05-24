@@ -51,16 +51,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Logging\LogTypeEnum.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>LogTypeEnum.cs</LastGenOutput>
-    </Content>
-    <Content Include="Tracing\TraceTypeEnum.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>TraceTypeEnum.cs</LastGenOutput>
-    </Content>
-  </ItemGroup>
-  <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
