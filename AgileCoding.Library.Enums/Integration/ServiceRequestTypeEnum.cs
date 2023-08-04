@@ -11,5 +11,6 @@
 
         //This is Direct Call using WCF MTOM encoding
         SOAP12 = 12,
+
     }
 }
